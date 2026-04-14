@@ -8,7 +8,7 @@ Turn any PDF into a smart, practice-ready flashcard deck in under 60 seconds. Po
 
 ## Live Demo
 
-**[→ your-deploy-link-here.vercel.app](https://your-deploy-link-here.vercel.app)** *(replace with your deployed URL)*
+**[→ your-deploy-link-here.vercel.app](https://recall-ai-flashcard-self.vercel.app/)**
 
 ---
 
